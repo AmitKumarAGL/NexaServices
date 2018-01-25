@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\publishtest" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="09/01/2016 13:49:53" />
+    <file relUrl="bin/DMS.DataService.ServiceContract.pdb" publishTime="09/02/2016 15:27:58" />
+    <file relUrl="bin/DMS.DataService.LogHelper.dll" publishTime="09/02/2016 15:27:59" />
+    <file relUrl="bin/DMS.DataService.Services.pdb" publishTime="09/02/2016 16:47:42" />
+    <file relUrl="bin/DMS.DataService.LogHelper.pdb" publishTime="09/02/2016 15:27:59" />
+    <file relUrl="DmsService.svc" publishTime="06/22/2016 11:59:16" />
+    <file relUrl="bin/DMS.DataService.DataContract.dll" publishTime="09/02/2016 15:27:58" />
+    <file relUrl="bin/log4net.dll" publishTime="11/04/2015 15:34:07" />
+    <file relUrl="bin/Newtonsoft.JsonResult.dll" publishTime="01/11/2016 18:07:32" />
+    <file relUrl="bin/DMS.DataService.Business.dll" publishTime="09/01/2016 13:49:37" />
+    <file relUrl="bin/DMS.DataService.Services.dll" publishTime="09/02/2016 16:47:42" />
+    <file relUrl="bin/DMS.DataService.DataLayer.dll" publishTime="09/02/2016 15:27:58" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="11/04/2015 15:34:44" />
+    <file relUrl="bin/DMS.DataService.Common.pdb" publishTime="09/01/2016 13:49:36" />
+    <file relUrl="bin/DMS.DataService.ServiceContract.dll" publishTime="09/02/2016 15:27:58" />
+    <file relUrl="bin/DMS.DataService.DataLayer.pdb" publishTime="09/02/2016 15:27:58" />
+    <file relUrl="bin/DMS.DataService.DataContract.pdb" publishTime="09/02/2016 15:27:58" />
+    <file relUrl="bin/DMS.DataService.Business.pdb" publishTime="09/01/2016 13:49:37" />
+    <file relUrl="bin/DMS.DataService.Common.dll" publishTime="09/01/2016 13:49:36" />
+  </publishProfile>
+</publishData>

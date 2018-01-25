@@ -1,0 +1,27 @@
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Business\bin\Release\DMS.DataService.Business.dll.config
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Business\bin\Release\DMS.DataService.Business.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Business\bin\Release\DMS.DataService.Business.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Business\obj\Release\DMS.DataService.Business.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Business\obj\Release\DMS.DataService.Business.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.Business\bin\Release\DMS.DataService.Business.dll.config
+E:\Development\DMS.DataServiceTest\DMS.DataService.Business\bin\Release\DMS.DataService.Business.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Business\bin\Release\DMS.DataService.Business.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.Business\obj\Release\DMS.DataService.Business.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Business\obj\Release\DMS.DataService.Business.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.Business\bin\Release\DMS.DataService.Business.dll.config
+E:\Dilip\DMS.DataService\DMS.DataService.Business\bin\Release\DMS.DataService.Business.dll
+E:\Dilip\DMS.DataService\DMS.DataService.Business\bin\Release\DMS.DataService.Business.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.Business\obj\Release\DMS.DataService.Business.dll
+E:\Dilip\DMS.DataService\DMS.DataService.Business\obj\Release\DMS.DataService.Business.pdb
+D:\Development\DMS.DataService\DMS.DataService.Business\bin\Release\DMS.DataService.Business.dll.config
+D:\Development\DMS.DataService\DMS.DataService.Business\bin\Release\DMS.DataService.Business.dll
+D:\Development\DMS.DataService\DMS.DataService.Business\bin\Release\DMS.DataService.Business.pdb
+D:\Development\DMS.DataService\DMS.DataService.Business\obj\Release\DMS.DataService.Business.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService.Business\obj\Release\DMS.DataService.Business.dll
+D:\Development\DMS.DataService\DMS.DataService.Business\obj\Release\DMS.DataService.Business.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Business\bin\Release\DMS.DataService.Business.dll.config
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Business\bin\Release\DMS.DataService.Business.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Business\bin\Release\DMS.DataService.Business.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Business\obj\Release\DMS.DataService.Business.csprojResolveAssemblyReference.cache
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Business\obj\Release\DMS.DataService.Business.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Business\obj\Release\DMS.DataService.Business.pdb

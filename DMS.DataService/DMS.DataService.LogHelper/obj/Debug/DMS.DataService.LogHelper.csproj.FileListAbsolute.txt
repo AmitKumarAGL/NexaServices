@@ -1,0 +1,88 @@
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll.config
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll.config
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\log4net-loggly.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\log4net.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\Newtonsoft.Json.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\System.Web.Razor.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\log4net.xml
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\Newtonsoft.Json.xml
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Debug\System.Web.Razor.xml
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll.config
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.dll
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.dll
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.dll
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.pdb
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll.config
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.pdb
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.dll
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.dll
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.pdb
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.pdb
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.dll
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.pdb
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll.config
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.pdb
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.dll
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\Newtonsoft.Json.dll
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.pdb
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.dll
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll.config
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.pdb
+D:\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll.config
+D:\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll
+D:\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.pdb
+D:\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.dll
+D:\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.dll
+D:\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.pdb
+D:\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.pdb
+D:\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+D:\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.dll
+D:\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll.config
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.LogHelper.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataContract.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\bin\Debug\DMS.DataService.DataLayer.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.LogHelper\obj\Debug\DMS.DataService.LogHelper.pdb

@@ -1,0 +1,41 @@
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll.config
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll.config
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.dll
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.csprojResolveAssemblyReference.cache
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll.config
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.csprojResolveAssemblyReference.cache
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll.config
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.pdb
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.csprojResolveAssemblyReference.cache
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.dll
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.pdb
+D:\Development\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll.config
+D:\Development\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll
+D:\Development\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.pdb
+D:\Development\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.dll
+D:\Development\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.pdb
+E:\Development\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll.config
+E:\Development\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll
+E:\Development\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.pdb
+E:\Development\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.dll
+E:\Development\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll.config
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Business\bin\Debug\NEXA.DataService.Business.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Business\obj\Debug\NEXA.DataService.Business.pdb

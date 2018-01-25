@@ -1,0 +1,41 @@
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll.config
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll.config
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll.config
+E:\Dilip\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll
+E:\Dilip\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.dll
+E:\Dilip\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll.config
+D:\Development\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll
+D:\Development\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.pdb
+D:\Development\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.dll
+D:\Development\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll.config
+E:\Development\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.csprojResolveAssemblyReference.cache
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll.config
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.csprojResolveAssemblyReference.cache
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll.config
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.DataContract\bin\Debug\DMS.DataService.DataContract.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.csprojResolveAssemblyReference.cache
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.DataContract\obj\Debug\DMS.DataService.DataContract.pdb

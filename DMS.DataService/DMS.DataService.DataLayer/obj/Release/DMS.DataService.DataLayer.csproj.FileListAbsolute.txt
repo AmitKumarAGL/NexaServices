@@ -1,0 +1,48 @@
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll.config
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.pdb
+E:\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll.config
+E:\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll
+E:\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.pdb
+E:\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.dll
+E:\Development\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll.config
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll.config
+E:\Dilip\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll
+E:\Dilip\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.dll
+E:\Dilip\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.csprojResolveAssemblyReference.cache
+E:\Dilip\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.dll
+E:\Dilip\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.pdb
+D:\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll.config
+D:\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll
+D:\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.pdb
+D:\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.dll
+D:\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.pdb
+D:\Development\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.dll
+D:\Development\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll.config
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataLayer.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataLayer\bin\Release\DMS.DataService.DataContract.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.csprojResolveAssemblyReference.cache
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.DataLayer\obj\Release\DMS.DataService.DataLayer.pdb

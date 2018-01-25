@@ -1,0 +1,144 @@
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.csprojResolveAssemblyReference.cache
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Business.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Business.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Business.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\Newtonsoft.Json.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\Newtonsoft.JsonResult.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\System.Web.Mvc.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\System.Web.Razor.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\System.Web.WebPages.Razor.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\System.Web.WebPages.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\Microsoft.Web.Infrastructure.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\System.Web.WebPages.Deployment.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Business.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\Newtonsoft.Json.xml
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\System.Web.Mvc.xml
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\System.Web.Razor.xml
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\System.Web.WebPages.Razor.xml
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\System.Web.WebPages.xml
+E:\Development\DMS.DataService\DMS.DataService.Services\bin\System.Web.WebPages.Deployment.xml
+E:\Development\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.dll
+E:\Development\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.Business.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\Newtonsoft.Json.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\Newtonsoft.JsonResult.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\System.Web.Mvc.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\System.Web.Razor.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\System.Web.WebPages.Razor.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\System.Web.WebPages.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\Microsoft.Web.Infrastructure.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\System.Web.WebPages.Deployment.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.Business.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\Newtonsoft.Json.xml
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\System.Web.Mvc.xml
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\System.Web.Razor.xml
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\System.Web.WebPages.Razor.xml
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\System.Web.WebPages.xml
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\System.Web.WebPages.Deployment.xml
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\obj\Release\DMS.DataService.Services.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\obj\Release\DMS.DataService.Services.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\obj\Release\DMS.DataService.Services.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\MongoDB.Bson.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\MongoDB.Driver.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\MongoDB.Bson.xml
+E:\Development\DMS.DataServiceTest\DMS.DataService.Services\bin\MongoDB.Driver.xml
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Business.dll
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\MongoDB.Bson.dll
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\MongoDB.Driver.dll
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Business.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\MongoDB.Bson.xml
+E:\Dilip\DMS.DataService\DMS.DataService.Services\bin\MongoDB.Driver.xml
+E:\Dilip\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.csprojResolveAssemblyReference.cache
+E:\Dilip\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.dll
+E:\Dilip\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Business.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Business.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+D:\Development\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.dll
+D:\Development\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll.config
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Services.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Business.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Business.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.Common.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataContract.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.DataLayer.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.LogHelper.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\bin\DMS.DataService.ServiceContract.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.csprojResolveAssemblyReference.cache
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.Services\obj\Release\DMS.DataService.Services.pdb

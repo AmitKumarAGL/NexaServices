@@ -1,0 +1,83 @@
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.dll.config
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataContract.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataLayer.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataContract.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataLayer.pdb
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.dll
+C:\Users\AGL IT\Downloads\dms-02092016\dms-02092016\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.pdb
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.dll.config
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.dll
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.pdb
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataLayer.dll
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\log4net-loggly.dll
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\log4net.dll
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\Newtonsoft.Json.dll
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\System.Web.Razor.dll
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataLayer.pdb
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\log4net.xml
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\Newtonsoft.Json.xml
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\System.Web.Razor.xml
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.dll
+E:\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.dll.config
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataContract.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataLayer.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\log4net-loggly.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\log4net.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\Newtonsoft.Json.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\System.Web.Razor.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataContract.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataLayer.pdb
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\log4net.xml
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\Newtonsoft.Json.xml
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\bin\Release\System.Web.Razor.xml
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.dll
+E:\Development\DMS.DataServiceTest\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.dll.config
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.dll
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataContract.dll
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataLayer.dll
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataContract.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataLayer.pdb
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Release\log4net.xml
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Release\Newtonsoft.Json.xml
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\bin\Release\System.Web.Razor.xml
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.dll
+E:\Dilip\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.pdb
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.dll.config
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.dll
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.pdb
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataContract.dll
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataLayer.dll
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataContract.pdb
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataLayer.pdb
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\log4net.xml
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\Newtonsoft.Json.xml
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\System.Web.Razor.xml
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.dll
+D:\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.dll.config
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.LogHelper.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataContract.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataLayer.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataContract.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\DMS.DataService.DataLayer.pdb
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\log4net.xml
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\Newtonsoft.Json.xml
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\bin\Release\System.Web.Razor.xml
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.csprojResolveAssemblyReference.cache
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.dll
+E:\NitinData\Development\DMS.DataService\DMS.DataService.LogHelper\obj\Release\DMS.DataService.LogHelper.pdb

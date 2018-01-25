@@ -1,0 +1,41 @@
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll.config
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.pdb
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.dll
+E:\garimaBackup\BackUpGarima\Garima\Project NEXA\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll.config
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.dll
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.pdb
+D:\NitinData\Development\DMS.DataService_Garima\DMS.DataService.Common\obj\Debug\NEXA.DataService.Common.csprojResolveAssemblyReference.cache
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll.config
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.dll
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.pdb
+D:\NitinData\Development\DMS.DataService\DMS.DataService.Common\obj\Debug\NEXA.DataService.Common.csprojResolveAssemblyReference.cache
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll.config
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.pdb
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Common\obj\Debug\NEXA.DataService.Common.csprojResolveAssemblyReference.cache
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.dll
+D:\Development\16-05-2017\DMS.DataService\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.pdb
+D:\Development\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll.config
+D:\Development\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll
+D:\Development\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.pdb
+D:\Development\DMS.DataService\DMS.DataService.Common\obj\Debug\NEXA.DataService.Common.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.dll
+D:\Development\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.pdb
+E:\Development\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll.config
+E:\Development\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll
+E:\Development\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.pdb
+E:\Development\DMS.DataService\DMS.DataService.Common\obj\Debug\NEXA.DataService.Common.csprojResolveAssemblyReference.cache
+E:\Development\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.dll
+E:\Development\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll.config
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Common\bin\Debug\DMS.DataService.Common.pdb
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Common\obj\Debug\NEXA.DataService.Common.csprojResolveAssemblyReference.cache
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.dll
+D:\Development\DMS.DataServiceNexa\DMS.DataService\DMS.DataService.Common\obj\Debug\DMS.DataService.Common.pdb
